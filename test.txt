@@ -1,5 +1,2 @@
-
 1. Print the name of your school
 2. Print the name of your favourite subject in school
-3. Print the color of your school uniform.
-4. print the location of your school.
